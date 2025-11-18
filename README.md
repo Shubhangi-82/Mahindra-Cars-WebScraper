@@ -58,18 +58,6 @@ BeautifulSoup’s `text=` argument was outdated.
 ✔ *Solution:* Updated to `string=` to fix warnings.
 
 
-📂 **Project Structure**
-
-├── datasets/
-│   ├── mahindra_cars_mumbai.csv
-│   ├── mahindra_cars_delhi.csv
-│   ├── mahindra_cars_hyderabad.csv
-├── images/
-│   ├── sample_output.png
-├── mahindra_scraper.py
-├── README.md
-
-
 🚀 **How to Run**
 
 1. Install dependencies
